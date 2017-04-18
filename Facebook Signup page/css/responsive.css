@@ -1,0 +1,97 @@
+@media all and (max-width: 1086px){
+	.signup-right h2 {
+		font-size: 31px;
+	}
+	.signup-right input[type="text"], .signup-right input[type="password"] {
+		font-size: 15px;
+	}
+	.birth {
+		float: none;
+	}
+	.day {
+		width: 100%;
+		margin-top: 9px;
+	}
+	p.policy {
+		width: 93%;
+	}
+	.signup-left img{
+		width: 100%;
+	}
+}
+@media all and (max-width: 890px){
+	.middle-area {
+		width: 95%;
+	}
+	
+	
+}
+@media all and (max-width: 768px){
+	.signup-left {
+		float: none;
+		width: 80%;
+		margin: auto;
+	}
+	.signup-left img{
+		display: none;
+	}
+	.signup-left p {
+		width: 100%;
+	}
+	.signup-right {
+		overflow: hidden;
+		width: 80%;
+		margin: auto;
+	}
+	
+}
+
+@media all and (max-width: 636px){
+	.logo-area {
+		width: 100%;
+		float: none;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+	.login-area {
+		width: 100%;
+	}
+	.login-area form {
+		float: none;
+	}
+	.login-first{
+		float: none;
+	}
+	.login-second{
+		overflow: hidden;
+		float: none;
+	}
+	.login-submit{
+		overflow: hidden;
+		float: none;
+	}
+	.login-area input[type="text"],
+	.login-area input[type="password"]{
+		width: 100%;
+	}
+}
+
+@media all and (max-width: 400px){
+	.signup-left {
+		float: none;
+		width: 95%;
+		margin: auto;
+	}
+	.signup-left img{
+		display: none;
+	}
+	.signup-left p {
+		width: 100%;
+	}
+	.signup-right {
+		overflow: hidden;
+		width: 95%;
+		margin: auto;
+	}
+	
+}
